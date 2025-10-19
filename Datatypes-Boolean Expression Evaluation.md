@@ -30,6 +30,6 @@ print("d:", d)
 ```
 
 ## Output
-![alt text](<../Screenshot 2025-10-19 133210.png>)
+![alt text](<Screenshot 2025-10-19 133210.png>)
 ## Result
 The program successfully evaluates boolean and arithmetic expressions involving True and False and displays the correct results.

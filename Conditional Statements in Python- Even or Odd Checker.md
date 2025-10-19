@@ -23,7 +23,7 @@ else:
 ```
 ## Output
 
-![alt text](../py1.png)
+![alt text](<Screenshot 2025-10-19 132740.png>)
 
 ## Result
 This program effectively distinguishes even and odd numbers using a simple conditional check and prints the correct label accordingly.

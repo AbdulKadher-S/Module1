@@ -28,6 +28,6 @@ print("Imaginary part:", x.imag)
 ```
 
 ## Output
-![alt text](<../Screenshot 2025-10-19 133349.png>)
+![alt text](<Screenshot 2025-10-19 133349.png>)
 ## Result
 The program successfully creates a complex number from user input and displays its real and imaginary parts.

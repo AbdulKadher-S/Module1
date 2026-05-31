@@ -12,7 +12,7 @@ To write a Python program that evaluates and prints the results of boolean and a
 5. Print the value of `a` with the label "a is".
 6. Print the value of `b` with the label "b is".
 7. Print the value of `c` with the label "c:".
-8. Print the value of `d` with the label "d:".
+8. Print the value of `` with the label "d:".
 
 ## 💻 Program
 Add Code here
